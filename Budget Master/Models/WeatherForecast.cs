@@ -1,6 +1,6 @@
 using System;
 
-namespace Budget_Master
+namespace Budget_Master.Models
 {
     public class WeatherForecast
     {
